@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP3</string>
+    <string name="pedidos_heladeria">Pedidos Heladeria</string>
+    <string name="cono">Cono</string>
+    <string name="cuarto">Cuarto</string>
+    <string name="kilo">Kilo</string>
+    <string name="ver_helado">Ver Helado</string>
+    <string name="textview">TextView</string>
+</resources>
